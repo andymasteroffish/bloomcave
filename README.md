@@ -10,6 +10,6 @@ Sound effects were created using Bfxr.
 You are free to peruse the code, but be aware that it was written hastily and had 0 bug checking.
 
 
-Andy Wallace: http://www.andymakesgames.com/<br>
+Andy Wallace: http://www.andymakes.com/<br>
 Nathaniel Chambers: http://bubblepipemedia.com/<br>
 Bfxr: http://www.bfxr.net/
